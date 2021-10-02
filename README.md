@@ -1,2 +1,4 @@
 # CS101L_002L
- Python Programming Skills
+ Name: Jeffrey Driskill
+ contact: jtdgz8@umkc.edu
+ Designation: Student
